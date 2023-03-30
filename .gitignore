@@ -128,3 +128,8 @@ cython_debug/
 
 # VS Code
 .vs*
+
+# Git secret
+.minetrc
+config.ini
+.gitsecret/keys/random_seed
