@@ -11,6 +11,14 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 requests = "*"
+hackathon-somos-nlp-2023 = {editable = true, path = "."}
+emoji = "*"
+openpyxl = "*"
+twarc = "*"
+twarc-csv = "*"
+detoxify = "*"
+pigeon-jupyter = "*"
+tweet-preprocessor = "*"
 
 [dev-packages]
 
